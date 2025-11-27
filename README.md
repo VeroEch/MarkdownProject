@@ -18,13 +18,13 @@ Esta seccion sirve de introduccion
 ## Features
 
 |Features  |     Description         |   Status  |
-|----------------------------------- |-----------|
+|----------|------------------------ |-----------|
 |Feature 1 | Description 1           |Completed  |
 |Feature 2 | Description 2           |In progres |
 |Feature 3 | Description 3           |Completed  |
 
 Este texto es **importante**.
-Este esta esta en formato *italic*.
+Este texto esta en formato *italic*.
 
 >"Code is like humor. When you have to explain it, it's bad" -Cory House
 
