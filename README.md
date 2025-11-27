@@ -1,5 +1,6 @@
 # Markdown and Git Homework.
 Este es un proyecto de practica.
+Se incluye mas informacion en Git [Git Documentation](https://git-scm.com/docs)
 
 ## Table of Contents
 
@@ -8,3 +9,13 @@ Este es un proyecto de practica.
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+
+## Introduction
+
+## Features
+
+## Installation
+
+## Usage
+
+## License
