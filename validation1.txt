@@ -1,0 +1,82 @@
+commit 66bdb9fec8f3496f309f57c2fd4c2ee21d48ec86
+Author: Verónica <46428485h@iespoblenou.org>
+Date:   Thu Nov 27 19:45:19 2025 +0100
+
+    Merge add-license branch into master
+
+ LICENSE.md | 10 ++++++++++
+ README.md  |  4 ++--
+ 2 files changed, 12 insertions(+), 2 deletions(-)
+
+commit ead0acef87776c523491844f16684ffaddbbe331
+Author: Verónica <46428485h@iespoblenou.org>
+Date:   Thu Nov 27 19:16:26 2025 +0100
+
+    Enhance README with formatting
+
+ README.md | 19 +++++++++++++++++++
+ 1 file changed, 19 insertions(+)
+
+commit a374a40f7f3bc19ed33262f0ad07b788f95b6ba2
+Author: Verónica <46428485h@iespoblenou.org>
+Date:   Thu Nov 27 18:48:47 2025 +0100
+
+    Add feature list table to README
+
+ README.md        |  12 +++++++++++-
+ images/logos.png | Bin 0 -> 24553 bytes
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+
+commit fe668f7fc445ec82a28b11e47db244ce909c9050
+Author: Verónica <46428485h@iespoblenou.org>
+Date:   Thu Nov 27 17:47:12 2025 +0100
+
+    Add project logo to README
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit cc9ccde8ce17759875bcbcb2e23cc0e52bc494bb
+Author: Verónica <46428485h@iespoblenou.org>
+Date:   Thu Nov 27 17:31:32 2025 +0100
+
+    Add sections to README
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit dca556d3a270dd6c881c0c35abc222a3f50f55a2
+Author: Verónica <46428485h@iespoblenou.org>
+Date:   Thu Nov 27 17:19:07 2025 +0100
+
+    Add hyperlinks to README
+
+ README.md | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
+
+commit aa34627181268b1499eccae26e7dc568ea7f89e6
+Author: Verónica <46428485h@iespoblenou.org>
+Date:   Thu Nov 27 16:51:33 2025 +0100
+
+    Add Table of Contents to README
+
+ README.md | 10 +++++++++-
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+
+commit 4f8570cd88a6d4d1b28e690cd405f63ce8e8ecb5
+Author: Verónica <46428485h@iespoblenou.org>
+Date:   Thu Nov 27 16:39:46 2025 +0100
+
+    Add README with project introduction
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 9439ad6d9f74bc50f1ef85e0b2e8cb5ab55d751e
+Author: Verónica <46428485h@iespoblenou.org>
+Date:   Thu Nov 27 01:33:36 2025 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
