@@ -15,6 +15,8 @@ Se incluye mas informacion en Git [Git Documentation](https://git-scm.com/docs)
 Esta seccion sirve de introduccion
 ![Project Logos](images/logos.png)
 
+Esta es una nueva linea
+
 ## Features
 
 |Features  |     Description         |   Status  |
