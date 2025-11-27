@@ -12,6 +12,7 @@ Se incluye mas informacion en Git [Git Documentation](https://git-scm.com/docs)
 
 ## Introduction
 Esta seccion sirve de introduccion
+![Project Logos](images/logos.png)
 ## Features
 
 ## Installation
